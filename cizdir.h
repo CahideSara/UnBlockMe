@@ -1,0 +1,1 @@
+void cizdir(int a[][6]);

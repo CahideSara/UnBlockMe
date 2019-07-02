@@ -1,0 +1,1 @@
+void yataydaİlerleme(int x, int y, int adım, int yön, int a[][6]);

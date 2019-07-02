@@ -1,0 +1,1 @@
+void düseydeİlerleme(int x, int y, int adım, int yön, int a[][6]);
